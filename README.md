@@ -14,7 +14,12 @@ building better tools that make everyday work simpler and faster for the people 
 
 ### 🛠️ Productivity Tools
 
-- 📬 **[AtsuMail](https://github.com/anishimori123/AtsuMail)** – my own email app, designed to give better visibility into what matters in the inbox *(in progress)*
+- 📬 **[AtsuMail](https://github.com/anishimori123/AtsuMail)** – a fast, dark-mode Gmail reader built for reading long newsletters on the go, with a retro Windows Explorer look *(v0.7 · in progress)*
+  - 📖 **Distraction-free reading** – reading mode strips cluttered newsletter layouts into one clean column, with text size and true full screen
+  - 🔊 **Listen to your inbox** – built-in voice player reads emails aloud in English and Japanese (Soft / Radio DJ / News styles), highlighting each sentence as it goes
+  - 📊 **Google Sheets view** – browse spreadsheets read-only, right next to your email
+  - 💻📱 **One app for PC and phone** – installable on Windows and phone home screens, with swipe gestures and keyboard shortcuts
+  - 🔒 **Private by design** – runs entirely in the browser with read-only access; no server, so mail is never stored anywhere else
 
 ### 🎵 Music & Audio
 
