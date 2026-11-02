@@ -12,7 +12,7 @@ building better tools that make everyday work simpler and faster for the people 
 
 ## 🚀 Projects
 
-More projects coming soon. This list will grow as I build!
+More projects coming soon — this list will grow as I build!
 
 ## 🏀 Outside of Work
 
