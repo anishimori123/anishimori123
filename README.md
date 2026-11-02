@@ -1,4 +1,4 @@
-# Hi, I'm Atsushi! 👋
+# Hi, I'm Atsushi!
 
 I'm a self-motivated professional working at a financial technology company.
 I enjoy digging into problems, understanding what's really causing them, and
