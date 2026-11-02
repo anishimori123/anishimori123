@@ -19,6 +19,7 @@ building better tools that make everyday work simpler and faster for the people 
 ### 🎵 Music & Audio
 
 - 🎧 **[Mind Rhythm Sampler](https://github.com/anishimori123/Mind-Rhythm)** – a voice-first music production idea for producers who have a rhythm in mind but can't play keys: hum or beatbox, and it turns into drums, bass, and melody *(concept & roadmap)*
+- 📻 **Radio Text** – paste in a Japanese email newsletter and it reads it aloud like a radio DJ, so I can catch up on my reading during the morning commute *(in progress · private)*
 
 More projects coming soon — this list will grow as I build!
 
