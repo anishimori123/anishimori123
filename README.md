@@ -12,6 +12,14 @@ building better tools that make everyday work simpler and faster for the people 
 
 ## 🚀 Projects
 
+### 🛠️ Productivity Tools
+
+- 📬 **[AtsuMail](https://github.com/anishimori123/AtsuMail)** – my own email app, designed to give better visibility into what matters in the inbox *(in progress)*
+
+### 🎵 Music & Audio
+
+- 🎧 **[Mind Rhythm Sampler](https://github.com/anishimori123/Mind-Rhythm)** – a voice-first music production idea for producers who have a rhythm in mind but can't play keys: hum or beatbox, and it turns into drums, bass, and melody *(concept & roadmap)*
+
 More projects coming soon — this list will grow as I build!
 
 ## 🏀 Outside of Work
