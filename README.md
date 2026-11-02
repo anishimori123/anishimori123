@@ -17,6 +17,7 @@ More projects coming soon. This list will grow as I build!
 ## 🏀 Outside of Work
 
 - ⚽ **Sports** – I love both playing and watching
+- 🏊‍♂️🚴‍♂️🏃‍♂️ **Triathlon** – competed in triathlons during college
 - 📷 **Photography** – capturing moments, places, and people
 
 ## 🤝 Connect with Me
