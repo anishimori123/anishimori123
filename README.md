@@ -27,6 +27,7 @@ More projects coming soon — this list will grow as I build!
 
 - ⚽ **Sports** – I love both playing and watching
 - 🏊‍♂️🚴‍♂️🏃‍♂️ **Triathlon** – competed in triathlons during college
+- 🎛️ **Music** – former DJ in Japan; produced my own remix CDs using Ableton Live
 - 📷 **Photography** – capturing moments, places, and people
 
 ## 🤝 Connect with Me
