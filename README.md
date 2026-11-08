@@ -39,6 +39,5 @@ More projects coming soon — this list will grow as I build!
 
 ## 🤝 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/atsushi-nishimori-a91b7797/)
+- 💼 [LinkedIn – message me here](https://www.linkedin.com/in/atsushi-nishimori-a91b7797/)
 - 📸 [Flickr – my photography](https://www.flickr.com/photos/8403684@N04/)
-- ✉️ [escobar.stillmatic@gmail.com](mailto:escobar.stillmatic@gmail.com)
