@@ -8,7 +8,7 @@ building better tools that make everyday work simpler and faster for the people 
 
 - 🔍 **Problem solving** – analyzing issues end to end and finding the root cause
 - 🛠️ **Better tooling** – improving the tools and workflows my team relies on every day
-- 🤖 **Always learning** – currently exploring coding, automation, trading bots, and AI tools
+- 🧠 **Fields of curiosity** – currently diving into coding, automation, trading bots, and AI tools
 
 ## 🚀 Projects
 
