@@ -14,11 +14,12 @@ building better tools that make everyday work simpler and faster for the people 
 
 ### 🛠️ Productivity Tools
 
-- 📬 **[AtsuMail](https://github.com/anishimori123/AtsuMail)** – a fast, dark-mode Gmail reader built for reading long newsletters on the go, with a retro Windows Explorer look *(v0.10 · [try it](https://anishimori123.github.io/AtsuMail/) · in progress)*
-  - 📖 **Distraction-free reading** – reading mode strips cluttered newsletter layouts into one clean column, with text size and true full screen (`F` key) that uses every pixel, even in landscape on a Pixel
-  - 🔊 **Listen to your inbox** – built-in voice player reads emails aloud in English and Japanese (Soft / Radio DJ / News styles), highlighting each sentence in light blue as it goes; tap any sentence to jump there
+- 📬 **[AtsuMail](https://github.com/anishimori123/AtsuMail)** – a fast, dark-mode Gmail reader built for reading long newsletters on the go, with a retro Windows Explorer look *(v0.11 · [try it](https://anishimori123.github.io/AtsuMail/) · in progress)*
+  - ⛶ **Full view at a glance** – press `F` (or double-tap on a phone) and the email, sheet or video fills the whole screen, on a phone or a PC monitor, with every bar hidden, even in landscape
   - 📊 **Google Sheets view** – browse spreadsheets right next to your email, with the sheet's own colors, bold text, merged cells and working links
-  - ▶️ **Watch later** – save YouTube videos and links from any device and play YouTube right inside the app, ready for the commute; the list syncs between phone and PC through a Google Sheet
+  - ▶️ **YouTube watch list** – save YouTube videos and links from any device and play them right inside the app; the list syncs between phone and PC through a Google Sheet
+  - 📖 **Distraction-free reading** – reading mode strips cluttered newsletter layouts into one clean column, with adjustable text size
+  - 🔊 **Listen to your inbox** – built-in voice player reads emails aloud in English and Japanese (Soft / Radio DJ / News styles), highlighting each sentence in light blue as it goes; tap any sentence to jump there
   - 💻📱 **One app for PC and phone** – installable on Windows and phone home screens, with swipe gestures, resizable panes and keyboard shortcuts
   - 🔒 **Private by design** – runs entirely in the browser with no server; email and sheets are read-only, and the app can only touch the one file it creates
 
